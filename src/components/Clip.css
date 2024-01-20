@@ -1,0 +1,14 @@
+.clip {
+    margin: auto;
+    padding: 0.3rem;
+    text-align: center;
+    width: 470px;
+}
+
+.clip-image {
+    width: 250px;
+}
+
+.username {
+    text-align: left;
+}
